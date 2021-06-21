@@ -22,6 +22,6 @@ while True:
                 break
 
     if len(stack) == 0:
-        print('YES')
+        print('yes')
     else:
-        print('NO')
+        print('no')
